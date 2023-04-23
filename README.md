@@ -4,4 +4,4 @@
 local repoで変更
 rebase-practiceブランチで更新(rebase conflict用)
 rebase pull用
-stash練習(トラック済み)
+stash練習(2nd)
